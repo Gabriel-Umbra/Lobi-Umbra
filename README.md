@@ -4,7 +4,7 @@ I'm Gabriel, a Fullstack Dev living in Brazil.
 
 I make the back and front ending for sites, design the appearence and do the functions, also program discord bots too.
 
-My languages are: Python, Javascript, C++ and PHP.
+My languages are: Python, Javascript, and C++.
 
 You can find me and my projects on [Instagram](https://www.instagram.com/lobi.umbra/), post everything that i learn. 
 
